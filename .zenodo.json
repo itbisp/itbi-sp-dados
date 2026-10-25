@@ -1,0 +1,30 @@
+{
+ "title": "Preços reais de venda de imóveis em São Paulo por distrito, rua e prédio (guias de ITBI, 2006–2026)",
+ "description": "<p>Preço do m² de imóveis residenciais vendidos na cidade de São Paulo, por distrito (96), rua e prédio, ano a ano de 2006 a 2026, calculado a partir das guias de ITBI pagas publicadas pela Secretaria Municipal da Fazenda da Prefeitura de São Paulo, cruzadas com o cadastro do IPTU e o GeoSampa. São preços declarados na compra, não de anúncio. Inclui m² mediano em valores da época e corrigido pelo IPCA. Consulta por endereço, histórico e estimativa de valor: <a href=\"https://itbisp.com\">itbisp.com — Quanto vale meu imóvel?</a></p><p>Real residential sale prices per m² in São Paulo, Brazil, by district, street and building, 2006–2026, from municipal ITBI (property transfer tax) open records.</p>",
+ "upload_type": "dataset",
+ "license": "cc-by-4.0",
+ "creators": [
+  {
+   "name": "ITBI SP"
+  }
+ ],
+ "keywords": [
+  "São Paulo",
+  "imóveis",
+  "preço do m²",
+  "ITBI",
+  "real estate",
+  "housing prices",
+  "dados abertos",
+  "open data",
+  "Brasil"
+ ],
+ "language": "por",
+ "related_identifiers": [
+  {
+   "identifier": "https://itbisp.com",
+   "relation": "isDocumentedBy",
+   "resource_type": "dataset"
+  }
+ ]
+}
