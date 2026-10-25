@@ -1,5 +1,7 @@
 # Preços reais de venda de imóveis em São Paulo (ITBI, 2006–2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23648478.svg)](https://doi.org/10.5281/zenodo.23648478)
+
 Quanto vale um imóvel em São Paulo? Este repositório traz o **preço real do m²** de imóveis residenciais vendidos na cidade, por **distrito, rua e prédio, ano a ano desde 2006**, calculado a partir das guias de ITBI pagas na compra e publicadas pela Prefeitura de São Paulo.
 
 São preços **declarados na compra**, não preços de anúncio. Para ver cada prédio, rua e bairro com mapa, histórico e estimativa de valor, use **[itbisp.com — Quanto vale meu imóvel?](https://itbisp.com/quanto-vale-meu-imovel)**.
@@ -35,7 +37,7 @@ Cada linha tem uma coluna `pagina` com o link da página correspondente no itbis
 
 Dados sob [CC BY 4.0](LICENSE). Pode usar, inclusive comercialmente, citando a fonte:
 
-> ITBI SP — Quanto vale meu imóvel? Preços reais de venda de imóveis em São Paulo a partir das guias de ITBI. https://itbisp.com
+> ITBI SP (2026). Preços reais de venda de imóveis em São Paulo por distrito, rua e prédio (guias de ITBI, 2006–2026). Zenodo. https://doi.org/10.5281/zenodo.23648478 — https://itbisp.com
 
 Este projeto não é afiliado à Prefeitura de São Paulo.
 
